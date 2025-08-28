@@ -38,3 +38,10 @@ Make sure you have Python installed. Then run the scripts as
 python script_name.py
 ```
 
+## License
+This code is released for academic and research purposes only.  
+Please cite the following paper if you use this code in your work:
+> Modeling the role of ATP metabolism in articular cartilage and osteoarthritis\
+> Dhruba Jyoti Mech and Mohd Suhail Rizvi\
+> [bioRxiv](https://doi.org/10.1101/2025.07.17.665362) [this DOI will be updated after final publication]
+
