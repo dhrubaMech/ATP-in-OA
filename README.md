@@ -21,3 +21,20 @@ Our model captures the **bistable metabolic switching** between these two pathwa
 ## Goal:
 This model serves as a tool for understanding cartilage energy metabolism and evaluating **personalized treatment strategies** that combine metabolic modulation and structural support.
 It provides a framework for designing **multi-modal therapies** aimed at restoring cartilage homeostasis and preventing the progression of osteoarthritis.
+
+## Requirements
+This project requires the following Python libraries:
+- [numpy](https://numpy.org/)
+- [matplotlib](https://matplotlib.org/)
+
+You can install them using pip:
+```bash
+pip install numpy matplotlib
+```
+
+## Usage
+Make sure you have Python installed. Then run the scripts as
+```bash
+python script_name.py
+```
+
