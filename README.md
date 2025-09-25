@@ -1,7 +1,7 @@
 **Title: Modeling the role of ATP metabolism in articular cartilage and osteoarthritis**  
 **Authors: Dhruba Jyoti Mech and Mohd Suhail Rizvi**  
 **Affliation: Indian Institute of Technology Hyderabad**  
-**bioRxiv: https://doi.org/10.1101/2025.07.17.665362**  
+**Article: https://doi.org/10.1016/j.biosystems.2025.105597**  
 
 # About this project
 This project presents a comprehensive mathematical model of **ATP metabolism in chondrocytes**, developed to explore the metabolic dynamics underlying **osteoarthritis (OA)** progression. 
@@ -43,5 +43,5 @@ This code is released for academic and research purposes only.
 Please cite the following paper if you use this code in your work:
 > Modeling the role of ATP metabolism in articular cartilage and osteoarthritis\
 > Dhruba Jyoti Mech and Mohd Suhail Rizvi\
-> [bioRxiv](https://doi.org/10.1101/2025.07.17.665362) [this DOI will be updated after final publication]
+> https://doi.org/10.1016/j.biosystems.2025.105597
 
