@@ -24,12 +24,13 @@ It provides a framework for designing **multi-modal therapies** aimed at restori
 
 ## Requirements
 This project requires the following Python libraries:
-- [numpy](https://numpy.org/)
-- [matplotlib](https://matplotlib.org/)
+- [Numpy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Numba](https://numba.pydata.org/)
 
 You can install them using pip:
 ```bash
-pip install numpy matplotlib
+pip install numpy matplotlib numba
 ```
 
 ## Usage
