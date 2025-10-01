@@ -34,7 +34,7 @@ pip install numpy matplotlib numba
 ```
 
 ## Usage
-Make sure you have Python installed. Then run the scripts as
+Make sure you have Python and dependent libraries installed. Then run the scripts as
 ```bash
 python script_name.py
 ```
